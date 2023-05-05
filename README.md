@@ -23,5 +23,5 @@ To have a quick view of all the endpoints of the API server, head to this [link]
 - We have migrated all the migrations after defining the data format in models.py
 - urls.py of the app is configured with the project's urls.py
 - For deployment, we have used the railway.app service.
-- The app is hosted on the URL - https://web-production-fe52.up.railway.app/
+- The app is hosted on the URL - https://web-production-f268.up.railway.app/
 - All the endpoints can be tested on this URL.
